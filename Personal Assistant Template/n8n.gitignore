@@ -1,0 +1,15 @@
+# Ignore environment and credentials
+.env
+.n8n
+node_modules/
+dist/
+*.log
+
+# Ignore VSCode or other editor files
+.vscode/
+.DS_Store
+
+# Ignore backups and system files
+*.bak
+*.tmp
+*.swp
